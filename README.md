@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 🙋🏻‍♂️ Sobre Mim:
 🔭 Atualmente, estou trabalhando em um **Projeto de Criptografia para segurança de Dados**<br><br>
 👯 Estou procurando colaborar em **Projetos de SQL e Projetos Em Nuvem tais como AWS, AZURE, GCP**br><br>
 🤝 Estou procurando ajuda com **Desenvolvedores Experientes na Área**<br><br>
