@@ -1,105 +1,95 @@
-# 🙋🏻‍♂️ Sobre Mim:
-🔭 Atualmente, estou trabalhando em um **Projeto de Criptografia para segurança de Dados**<br><br>
-👯 Estou procurando colaborar em **Projetos de SQL e Projetos Em Nuvem tais como AWS, AZURE, GCP**br><br>
-🤝 Estou procurando ajuda com **Desenvolvedores Experientes na Área**<br><br>
-🌱 Atualmente, estou aprendendo **SGBD e Cyber Segurança**<br><br>
-💬 Pergunte-me sobre **Dados e segurança na internet**<br><br>
-📫 Como entrar em contato comigo: **arthurmendes0505@outlook.com**<br><br>
-👨‍💻 Todos os meus projetos estão disponíveis em (**ainda em desenvolvimento**)<br><br>
+# Arthur Mendes | Especialista em Segurança de Dados
+
+## 🚀 Sobre Mim
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZlNzFiZWZkYWFjNmI2NWNmNDcxNGRhYWE4NGZmOTlhNGMwN2ZlMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
+### Transformando Segurança em Código 💻🔐
+
+Sou **Arthur Mendes**, um iniciante na **Cibersegurança** com missão de proteger o mundo digital. Com paixão por dados e tecnologia, desenvolvo soluções de segurança inovadoras enquanto exploro os limites entre privacidade, criptografia e sistemas de banco de dados seguros.
+
+> *"A segurança não é um produto, mas um processo contínuo de evolução."*
+<br> </br>
+### 🔍 Em foco atualmente:
+
+- 🔐 Desenvolvendo um **Framework de Criptografia Avançada** para proteção de dados sensíveis
+- 🛡️ Aperfeiçoando técnicas de **Hardening de Bancos de Dados** e metodologias **SGBD Seguro**
+- ☁️ Implementando arquiteturas de **Zero Trust** em ambientes **AWS, Azure e GCP**
+- 🔬 Pesquisando **Blockchain para Autenticação Descentralizada** 
+- 🧠 Orientando novos talentos em **Segurança Ofensiva e Defensiva**
+<br> </br>
+
+### 📫 Conexões:
+[![Email](https://img.shields.io/badge/Email-Profissional-d44638?style=flat-square&logo=microsoft-outlook)](mailto:arthurmendes0505@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Em_Desenvolvimento-1f6feb?style=flat-square&logo=github)](https://github.com/arthurlynow098)
+<br> </br>
+
+## 💻 Stack Tecnológica
+
+### Linguagens de Programação
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Ferramentas e Tecnologias
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<br> </br>
+
+## 📊 GitHub Stats
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <a href="https://github.com/arthurlynow098">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlynow098&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </a>
+  </div>
+  <div style="margin-left: 20px;">
+    <h3>📌 Principais Linguagens</h3>
+    <ul style="list-style: none; padding: 0;">
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" style="vertical-align: middle; margin-right: 8px;" />
+        HTML
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" style="vertical-align: middle; margin-right: 8px;" />
+        C#
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" style="vertical-align: middle; margin-right: 8px;" />
+        CSS
+      </li>
+      <li>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" style="vertical-align: middle; margin-right: 8px;" />
+        JavaScript
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<br> </br>
+
+## 📬 Entre em Contato
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthurmendes0505@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arthurmendes)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Arthurlynow)
 
 ---
 
-## 🌐 Redes Sociais:
-<p align="left">
-  <a href="https://instagram.com/Arthurlynow" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tiktok.com/@ArthurEntsev33" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/>
-  </a>
-  <a href="https://x.com/ArthurEntsev33" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white" alt="X / Twitter"/>
-  </a>
-  <a href="https://youtube.com/@@ArthurmEntsev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:arthurmendes0505@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="80" height="80"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> 
-  </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> 
-  </a> 
-</p>
-
-
-
-
----
-
-# 📊 Status do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=arthurlynow098&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arthurlynow098&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurlynow098&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 Troféus do GitHub:
-![](https://github-profile-trophy.vercel.app/?username=arthurlynow098&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 📜 Citação do Dia:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arthurlynow098&icon=2&color=0" alt="Contador de visitas"/>
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=arthurlynow098&label=Visualizações+de+perfil&color=0e75b6&style=flat)
