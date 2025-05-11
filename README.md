@@ -7,7 +7,7 @@
 
 ### Transformando Segurança em Código 💻🔐
 
-Sou **Arthur Mendes**, um iniciante na **Cibersegurança** com missão de proteger o mundo digital. Com paixão por dados e tecnologia, desenvolvo soluções de segurança inovadoras enquanto exploro os limites entre privacidade, criptografia e sistemas de banco de dados seguros.
+Sou **Arthur Mendes**, sou apenas um iniciante na **Cibersegurança**. Com uma grande paixão por dados e tecnologia, atualmente desenvolvo soluções de segurança enquanto exploro os limites entre privacidade, criptografia e sistemas de banco de dados seguros.
 
 > *"A segurança não é um produto, mas um processo contínuo de evolução."*
 <br> </br>
@@ -18,10 +18,6 @@ Sou **Arthur Mendes**, um iniciante na **Cibersegurança** com missão de proteg
 - ☁️ Implementando arquiteturas de **Zero Trust** em ambientes **AWS, Azure e GCP**
 - 🔬 Pesquisando **Blockchain para Autenticação Descentralizada** 
 - 🧠 Orientando novos talentos em **Segurança Ofensiva e Defensiva**
-<br> </br>
-
-### 📫 Conexões:
-[![Email](https://img.shields.io/badge/Email-Profissional-d44638?style=flat-square&logo=microsoft-outlook)](mailto:arthurmendes0505@outlook.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Em_Desenvolvimento-1f6feb?style=flat-square&logo=github)](https://github.com/arthurlynow098)
 <br> </br>
 
 ## 💻 Stack Tecnológica
