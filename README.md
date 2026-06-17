@@ -12,5 +12,5 @@ Sou Desenvolvedor Backend com experiência prática na criação de automações
 * Desenvolvendo um simulador de lógica e configuração de produtos em VBA/Excel.
 
 📫 **Como me encontrar:**
-* [LinkedIn](link-do-seu-linkedin-aqui)
+* [LinkedIn]([[link-do-seu-linkedin-aqui](https://www.linkedin.com/in/entsevarthur/)](https://www.linkedin.com/in/entsevarthur/))
 * Email: arthurmendes0505@Outlook.com
