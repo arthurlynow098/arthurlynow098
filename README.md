@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Entsev 
+### Olá!
 
 Sou Desenvolvedor Backend com experiência prática na criação de automações e soluções sistêmicas para o setor de engenharia. Atualmente atuando na Flash Engenharia, meu foco é transformar complexidades em código limpo, eficiente e escalável.
 
@@ -15,4 +15,4 @@ Sou Desenvolvedor Backend com experiência prática na criação de automações
 * LinkedIn: https://www.linkedin.com/in/entsevarthur/
 * Email: arthurmendes0505@Outlook.com
 
-**[Acesse meu Portfólio - Arquitetura, Automação & Backend](https://arthurentsev.vercel.app/)**
+**[Acesse meu Portfólio](https://arthurentsev.vercel.app/)**
