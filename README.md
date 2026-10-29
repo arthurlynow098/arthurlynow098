@@ -1,6 +1,6 @@
-<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — Ars Codex" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arthurlynow098/arthurlynow098/main/assets/ars-codex-banner.png" alt="Arthur Mendes Entsev — gravura em preto e branco" width="100%"></p>
 
-<p align="center"><sub>☉ &nbsp; DESENVOLVIMENTO BACK-END · AUTOMAÇÃO · ENGENHARIA &nbsp; ☽</sub></p>
+<p align="center"><sub>DESENVOLVIMENTO BACK-END · AUTOMAÇÃO · ENGENHARIA</sub></p>
 
 <p align="center"><a href="https://arthurentsev.vercel.app/">Portfólio</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:arthurmendes0505@Outlook.com">Contato</a></p>
 
@@ -38,4 +38,4 @@ Meu foco de estudo e construção está em APIs REST, organização do código, 
 
 ---
 
-<p align="center"><sub>ARS CODEX &nbsp; · &nbsp; Estudo, construção e evolução.</sub></p>
+<p align="center"><sub>Estudo, construção e evolução.</sub></p>
