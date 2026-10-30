@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/banner-v2.png" alt="arthurlynow098" width="100%">
+  <img src="assets/banner-name.svg" alt="arthurlynow098" width="100%">
 </p>
 
 <p align="center">Desenvolvimento back-end e automação aplicada à engenharia.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="Back-end · Automação · Dados" width="72%"></p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Back-end · Automação · Dados" width="100%"></p>
 
 <p align="center"><a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp; <a href="#projetos-em-destaque">Projetos em destaque</a></p>
 
@@ -16,11 +16,12 @@
 
 ![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
 
-| Área | O que você encontra | Acesso direto |
-|---|---|---|
-| **Repositórios** | Código-fonte dos projetos por área. | [Abrir repositórios →](https://github.com/arthurlynow098?tab=repositories) |
-| **Portfólio** | Apresentação de projetos e experiência. | [Abrir portfólio →](https://arthurentsev.vercel.app/) |
-| **Contato** | Perfil profissional e trajetória. | [Abrir contato →](https://www.linkedin.com/in/entsevarthur/) |
+<table width="100%">
+<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
+<tr><td><strong>Repositórios</strong></td><td>Código-fonte dos projetos por área.</td><td><a href="https://github.com/arthurlynow098?tab=repositories">Abrir repositórios →</a></td></tr>
+<tr><td><strong>Portfólio</strong></td><td>Apresentação de projetos e experiência.</td><td><a href="https://arthurentsev.vercel.app/">Abrir portfólio →</a></td></tr>
+<tr><td><strong>Contato</strong></td><td>Perfil profissional e trajetória.</td><td><a href="https://www.linkedin.com/in/entsevarthur/">Abrir contato →</a></td></tr>
+</table>
 
 <a id="sobre-mim"></a>
 
