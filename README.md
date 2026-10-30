@@ -4,17 +4,27 @@
 
 <p align="center">Desenvolvimento back-end e automação aplicada à engenharia.</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Back--end-C52E36?style=flat-square" alt="Back-end">
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-24272E?style=flat-square" alt="Automação">
-  <img src="https://img.shields.io/badge/Dados-24272E?style=flat-square" alt="Dados">
-</p>
+<p align="center"><img src="assets/docs/tags.svg" alt="Back-end · Automação · Dados" width="72%"></p>
 
 <p align="center"><a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp; <a href="#projetos-em-destaque">Projetos em destaque</a></p>
 
 ---
 
-## Sobre mim
+<a id="explore-o-projeto"></a>
+
+![Explore o projeto](assets/docs/section-01.svg)
+
+![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
+
+| Área | O que você encontra | Acesso direto |
+|---|---|---|
+| **Repositórios** | Código-fonte dos projetos por área. | [Abrir repositórios →](https://github.com/arthurlynow098?tab=repositories) |
+| **Portfólio** | Apresentação de projetos e experiência. | [Abrir portfólio →](https://arthurentsev.vercel.app/) |
+| **Contato** | Perfil profissional e trajetória. | [Abrir contato →](https://www.linkedin.com/in/entsevarthur/) |
+
+<a id="sobre-mim"></a>
+
+![Sobre mim](assets/docs/section-02.svg)
 
 Sou **Arthur Mendes Entsev**, desenvolvedor back-end na **Flash Engenharia** e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**. Desenvolvo automações, configuradores técnicos e ferramentas internas para o setor de engenharia.
 
@@ -22,7 +32,9 @@ Meus projetos exploram APIs, aplicações desktop, bancos relacionais e ambiente
 
 [Portfólio](https://arthurentsev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/entsevarthur/) · [E-mail](mailto:arthurmendes0505@Outlook.com)
 
-## Tecnologias
+<a id="tecnologias"></a>
+
+![Tecnologias](assets/docs/section-03.svg)
 
 | Domínio | Tecnologias e práticas |
 |---|---|
@@ -32,7 +44,9 @@ Meus projetos exploram APIs, aplicações desktop, bancos relacionais e ambiente
 | **Infraestrutura e DevOps** | Docker · Docker Compose · Git · GitHub Actions · Linux / CLI |
 | **Front-end e Interfaces** | JavaScript · TypeScript · React · HTML5 · CSS3 · Bootstrap · Razor |
 
-## Projetos em destaque
+<a id="projetos-em-destaque"></a>
+
+![Projetos em destaque](assets/docs/section-04.svg)
 
 | Projeto | Stack | O que entrega |
 |---|---|---|
@@ -45,7 +59,9 @@ Meus projetos exploram APIs, aplicações desktop, bancos relacionais e ambiente
 | **[F1 Financial Controller](https://github.com/arthurlynow098/f1-strategic-financial-controller)** | Prompt Engineering · LLMs | Simulação financeira de uma equipe de Fórmula 1 com prompts para requisitos, cenários e revisão de riscos. |
 | **[Verificador de Cópias](https://github.com/arthurlynow098/Verificador-de-Copias)** | Python · Tkinter · ImageHash | Ferramenta desktop que detecta e isola fotos duplicadas por hash criptográfico ou similaridade perceptual. |
 
-## Explore os repositórios
+<a id="explore-os-repositórios"></a>
+
+![Explore os repositórios](assets/docs/section-05.svg)
 
 <details>
 <summary>Ver coleção por área</summary>
