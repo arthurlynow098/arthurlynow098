@@ -1,31 +1,17 @@
 <p align="center">
-  <img src="assets/banner-name.svg" alt="arthurlynow098" width="100%">
+  <img src="assets/identity/banner.png" alt="arthurlynow098" width="100%">
 </p>
 
-<p align="center">Desenvolvimento back-end e automação aplicada à engenharia.</p>
+<p align="center">Código que conecta ideias, pessoas e possibilidades.</p>
 
-<p align="center"><img src="assets/docs/tags.svg" alt="Back-end · Automação · Dados" width="100%"></p>
 
 <p align="center"><a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp; <a href="#projetos-em-destaque">Projetos em destaque</a></p>
 
----
-
-<a id="explore-o-projeto"></a>
-
-![Explore o projeto](assets/docs/section-01.svg)
-
-![Mapa visual dos arquivos e responsabilidades](assets/docs/map.svg)
-
-<table width="100%">
-<tr><th align="left">Área</th><th align="left">O que você encontra</th><th align="left">Acesso direto</th></tr>
-<tr><td><strong>Repositórios</strong></td><td>Código-fonte dos projetos por área.</td><td><a href="https://github.com/arthurlynow098?tab=repositories">Abrir repositórios →</a></td></tr>
-<tr><td><strong>Portfólio</strong></td><td>Apresentação de projetos e experiência.</td><td><a href="https://arthurentsev.vercel.app/">Abrir portfólio →</a></td></tr>
-<tr><td><strong>Contato</strong></td><td>Perfil profissional e trajetória.</td><td><a href="https://www.linkedin.com/in/entsevarthur/">Abrir contato →</a></td></tr>
-</table>
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <a id="sobre-mim"></a>
 
-![Sobre mim](assets/docs/section-02.svg)
+## Olá, eu sou Arthur
 
 Sou **Arthur Mendes Entsev**, desenvolvedor back-end na **Flash Engenharia** e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**. Desenvolvo automações, configuradores técnicos e ferramentas internas para o setor de engenharia.
 
@@ -33,36 +19,95 @@ Meus projetos exploram APIs, aplicações desktop, bancos relacionais e ambiente
 
 [Portfólio](https://arthurentsev.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/entsevarthur/) · [E-mail](mailto:arthurmendes0505@Outlook.com)
 
+<a id="explore-o-projeto"></a>
+
+## Entre e explore
+
+
+- **[Repositórios](https://github.com/arthurlynow098?tab=repositories)** — Código-fonte dos projetos por área.
+- **[Portfólio](https://arthurentsev.vercel.app/)** — Apresentação de projetos e experiência.
+- **[Contato](https://www.linkedin.com/in/entsevarthur/)** — Perfil profissional e trajetória.
+
+
 <a id="tecnologias"></a>
 
-![Tecnologias](assets/docs/section-03.svg)
+## Ferramentas do meu ofício
 
-| Domínio | Tecnologias e práticas |
-|---|---|
-| **Back-end e APIs** | Java · Spring Boot · C# · ASP.NET Core MVC · PHP · Node.js · Express |
-| **Desktop e Automação** | Python (PySide6, Tkinter, Pillow) · WPF (.NET) · Windows Forms · VBA / Excel |
-| **Bancos de Dados** | MySQL · SQL Server · Oracle PL/SQL · Entity Framework Core · Spring Data JPA |
-| **Infraestrutura e DevOps** | Docker · Docker Compose · Git · GitHub Actions · Linux / CLI |
-| **Front-end e Interfaces** | JavaScript · TypeScript · React · HTML5 · CSS3 · Bootstrap · Razor |
+**Back-end e APIs**<br>
+Java · Spring Boot · C# · ASP.NET Core MVC · PHP · Node.js · Express
+
+**Desktop e Automação**<br>
+Python (PySide6, Tkinter, Pillow) · WPF (.NET) · Windows Forms · VBA / Excel
+
+**Bancos de Dados**<br>
+MySQL · SQL Server · Oracle PL/SQL · Entity Framework Core · Spring Data JPA
+
+**Infraestrutura e DevOps**<br>
+Docker · Docker Compose · Git · GitHub Actions · Linux / CLI
+
+**Front-end e Interfaces**<br>
+JavaScript · TypeScript · React · HTML5 · CSS3 · Bootstrap · Razor
 
 <a id="projetos-em-destaque"></a>
 
-![Projetos em destaque](assets/docs/section-04.svg)
+## Projetos que ganham forma
 
-| Projeto | Stack | O que entrega |
-|---|---|---|
-| **[LynowMic](https://github.com/arthurlynow098/LynowMic)** | C# · WPF · Kotlin · TLS 1.2 | Transforma o celular Android em microfone sem fio para o Windows via rede local com pareamento QR Code e baixa latência. |
-| **[LynowCut](https://github.com/arthurlynow098/LynowCut)** | Python · PySide6 · FFmpeg | Compressor local de imagens, PDFs, documentos, vídeos e áudio com meta exata em bytes ou porcentagem. |
-| **[O-BRECHÓ · ANG](https://github.com/arthurlynow098/ANG)** | TypeScript · React · SQL | Sistema de gestão solidária para controle de doações, triagem, estoque, vendas e fluxo de caixa. |
-| **[Product Manager](https://github.com/arthurlynow098/spring-boot-product-manager)** | Java 17 · Spring Boot · JS | API RESTful e dashboard integrado para gestão de inventário aplicando herança e polimorfismo em POO. |
-| **[Lynow Corp Platform](https://github.com/arthurlynow098/lynow-corp-platform)** | Java 17 · Spring Data JPA · MySQL | Plataforma back-end e modelagem relacional para conexão entre clientes e profissionais em micro-jobs. |
-| **[Docker Configurator](https://github.com/arthurlynow098/Docker-product-configurator)** | Docker · PHP 8.2 · MySQL 8.0 | Infraestrutura multi-container isolada com Dockerfile customizado, volumes persistentes e rede bridge. |
-| **[F1 Financial Controller](https://github.com/arthurlynow098/f1-strategic-financial-controller)** | Prompt Engineering · LLMs | Simulação financeira de uma equipe de Fórmula 1 com prompts para requisitos, cenários e revisão de riscos. |
-| **[Verificador de Cópias](https://github.com/arthurlynow098/Verificador-de-Copias)** | Python · Tkinter · ImageHash | Ferramenta desktop que detecta e isola fotos duplicadas por hash criptográfico ou similaridade perceptual. |
+<table>
+<tr><td width="50%"><a href="https://github.com/arthurlynow098/spring-boot-product-manager"><img src="https://raw.githubusercontent.com/arthurlynow098/spring-boot-product-manager/main/assets/identity/banner.png" alt="Product Manager" width="100%"></a><br><strong>Product Manager</strong><br><sub>APIs e inventário</sub></td><td width="50%"><a href="https://github.com/arthurlynow098/lynow-corp-platform"><img src="https://raw.githubusercontent.com/arthurlynow098/lynow-corp-platform/main/assets/identity/banner.png" alt="Lynow Corp" width="100%"></a><br><strong>Lynow Corp</strong><br><sub>Conexões e serviços</sub></td></tr>
+<tr><td width="50%"><a href="https://github.com/arthurlynow098/Docker-product-configurator"><img src="https://raw.githubusercontent.com/arthurlynow098/Docker-product-configurator/main/assets/identity/banner.png" alt="Docker Configurator" width="100%"></a><br><strong>Docker Configurator</strong><br><sub>Ambientes e infraestrutura</sub></td><td width="50%"><a href="https://github.com/arthurlynow098/Verificador-de-Copias"><img src="https://raw.githubusercontent.com/arthurlynow098/Verificador-de-Copias/main/assets/identity/banner.png" alt="Singular" width="100%"></a><br><strong>Singular</strong><br><sub>Automação e organização</sub></td></tr>
+</table>
+
+### [LynowMic](https://github.com/arthurlynow098/LynowMic)
+
+Transforma o celular Android em microfone sem fio para o Windows via rede local com pareamento QR Code e baixa latência.
+
+<sub>C# · WPF · Kotlin · TLS 1.2</sub>
+
+### [LynowCut](https://github.com/arthurlynow098/LynowCut)
+
+Compressor local de imagens, PDFs, documentos, vídeos e áudio com meta exata em bytes ou porcentagem.
+
+<sub>Python · PySide6 · FFmpeg</sub>
+
+### [O-BRECHÓ · ANG](https://github.com/arthurlynow098/ANG)
+
+Sistema de gestão solidária para controle de doações, triagem, estoque, vendas e fluxo de caixa.
+
+<sub>TypeScript · React · SQL</sub>
+
+### [Product Manager](https://github.com/arthurlynow098/spring-boot-product-manager)
+
+API RESTful e dashboard integrado para gestão de inventário aplicando herança e polimorfismo em POO.
+
+<sub>Java 17 · Spring Boot · JS</sub>
+
+### [Lynow Corp Platform](https://github.com/arthurlynow098/lynow-corp-platform)
+
+Plataforma back-end e modelagem relacional para conexão entre clientes e profissionais em micro-jobs.
+
+<sub>Java 17 · Spring Data JPA · MySQL</sub>
+
+### [Docker Configurator](https://github.com/arthurlynow098/Docker-product-configurator)
+
+Infraestrutura multi-container isolada com Dockerfile customizado, volumes persistentes e rede bridge.
+
+<sub>Docker · PHP 8.2 · MySQL 8.0</sub>
+
+### [F1 Financial Controller](https://github.com/arthurlynow098/f1-strategic-financial-controller)
+
+Simulação financeira de uma equipe de Fórmula 1 com prompts para requisitos, cenários e revisão de riscos.
+
+<sub>Prompt Engineering · LLMs</sub>
+
+### [Verificador de Cópias](https://github.com/arthurlynow098/Verificador-de-Copias)
+
+Ferramenta desktop que detecta e isola fotos duplicadas por hash criptográfico ou similaridade perceptual.
+
+<sub>Python · Tkinter · ImageHash</sub>
 
 <a id="explore-os-repositórios"></a>
 
-![Explore os repositórios](assets/docs/section-05.svg)
+## Meu caderno de exploração
 
 <details>
 <summary>Ver coleção por área</summary>
@@ -101,7 +146,7 @@ Meus projetos exploram APIs, aplicações desktop, bancos relacionais e ambiente
 
 </details>
 
----
+<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
 
 <p align="center">
   <a href="https://github.com/arthurlynow098">GitHub</a> &nbsp;·&nbsp;
