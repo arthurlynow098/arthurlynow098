@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/project-animal.png" alt="Emblema de Arthur Entsev" width="144" height="144">
+  <img src="assets/banner-v2.png" alt="arthurlynow098" width="100%">
 </p>
-
-<h1 align="center">Arthur Entsev</h1>
 
 <p align="center">Desenvolvimento back-end e automação aplicada à engenharia.</p>
 
