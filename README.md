@@ -39,10 +39,7 @@
 
 <p align="center"><img src="assets/identity/tools.svg" alt="Tecnologias — As ferramentas do meu ofício" width="100%"></p>
 
-<table width="100%">
-<tr><td width="50%" valign="top"><h3>Back-end & APIs</h3><p>Java · Spring Boot<br>C# · ASP.NET Core<br>PHP · Node.js · Express</p></td><td width="50%" valign="top"><h3>Desktop & automação</h3><p>Python · PySide6 · Tkinter · Pillow<br>WPF · Windows Forms<br>VBA · Excel</p></td></tr>
-<tr><td valign="top"><h3>Dados & infraestrutura</h3><p>MySQL · SQL Server · Oracle PL/SQL<br>Entity Framework · Spring Data JPA<br>Docker · Git · GitHub Actions · Linux</p></td><td valign="top"><h3>Interfaces</h3><p>JavaScript · TypeScript · React<br>HTML · CSS · Bootstrap<br>Razor</p></td></tr>
-</table>
+<p align="center"><img src="assets/identity/technology-grid.svg" alt="Back-end &amp; APIs: Java · Spring Boot, C# · ASP.NET Core, PHP · Node.js · Express; Desktop &amp; automação: Python · PySide6 · Tkinter · Pillow, WPF · Windows Forms, VBA · Excel; Dados &amp; infraestrutura: MySQL · SQL Server · Oracle PL/SQL, Entity Framework · Spring Data JPA, Docker · Git · GitHub Actions · Linux; Interfaces: JavaScript · TypeScript · React, HTML · CSS · Bootstrap, Razor" width="100%"></p>
 
 <a id="explore-os-repositórios"></a>
 
