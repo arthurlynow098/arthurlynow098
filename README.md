@@ -1,92 +1,126 @@
-<p align="center"><img src="assets/identity/banner.png" alt="Arthur Entsev — desenvolvimento e automação" width="100%"></p>
+<a id="top"></a>
 
-<p align="center"><sub>DESENVOLVIMENTO BACK-END &nbsp; / &nbsp; AUTOMAÇÃO &nbsp; / &nbsp; ENGENHARIA</sub></p>
+<p align="center"><img src="assets/identity-v2/banner.png" alt="Arthur Entsev" width="100%"></p>
 
-<p align="center"><strong>Transformo problemas do dia a dia em ferramentas que funcionam.</strong></p>
+<p align="center"><strong>Back-end, automação e ferramentas que resolvem problemas reais.</strong></p>
 
-<p align="center"><a href="#sobre-mim">Sobre mim</a> &nbsp; · &nbsp; <a href="#projetos-em-destaque">Projetos</a> &nbsp; · &nbsp; <a href="#tecnologias">Tecnologias</a> &nbsp; · &nbsp; <a href="https://arthurentsev.vercel.app/">Portfólio ↗</a></p>
+<p align="center">
+<a href="https://arthurentsev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-7227EF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"></a>
+<a href="https://www.linkedin.com/in/entsevarthur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+<a href="mailto:arthurmendes0505@Outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-242424?style=for-the-badge&amp;logo=maildotru&amp;logoColor=white"></a>
+</p>
+
+<p align="center"><a href="#sobre-mim">Sobre</a> · <a href="#produtos-em-destaque">Produtos</a> · <a href="#engenharia-e-aplicações">Engenharia</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#explore-a-coleção">Repositórios</a></p>
 
 <a id="sobre-mim"></a>
 
-<p align="center"><img src="assets/identity/about.svg" alt="Sobre mim — Ideias que se tornam ferramentas" width="100%"></p>
+<p><img src="assets/identity-v2/section-01.svg" alt="Sobre mim" width="100%"></p>
 
-<p align="center">Sou <strong>Arthur Mendes Entsev</strong>, desenvolvedor back-end na Flash Engenharia<br>e estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba.</p>
+Sou **Arthur Mendes Entsev**, desenvolvedor back-end na **Flash Engenharia** e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**.
 
-<p align="center">Trabalho com automações, configuradores técnicos e ferramentas internas para engenharia.<br>Por aqui, compartilho aplicações, experimentos e o que aprendo construindo.</p>
-
-<p align="center"><a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:arthurmendes0505@Outlook.com">Vamos conversar ↗</a></p>
-
-<a id="projetos-em-destaque"></a>
-
-<p align="center"><img src="assets/identity/work.svg" alt="Projetos selecionados — Um pouco do que construo" width="100%"></p>
+Trabalho com automações, configuradores técnicos e ferramentas internas para engenharia. Nos meus projetos, exploro APIs, aplicações desktop, interfaces web e processamento local de arquivos.
 
 <table>
-<tr><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/spring-boot-product-manager"><img src="assets/identity/spring-boot-product-manager.png" alt="Product Manager" width="100%"></a><p><strong>Product Manager</strong></p><p>Uma API e um dashboard para organizar inventários.</p><p><sub>Java · Spring Boot · JavaScript</sub></p><a href="https://github.com/arthurlynow098/spring-boot-product-manager">Conhecer o projeto ↗</a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/lynow-corp-platform"><img src="assets/identity/lynow-corp-platform.png" alt="Lynow Corp" width="100%"></a><p><strong>Lynow Corp</strong></p><p>Modelagem e back-end para conectar clientes e profissionais.</p><p><sub>Java · Spring Data JPA · MySQL</sub></p><a href="https://github.com/arthurlynow098/lynow-corp-platform">Conhecer o projeto ↗</a><br><br></td></tr>
-<tr><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/Docker-product-configurator"><img src="assets/identity/Docker-product-configurator.png" alt="Docker Configurator" width="100%"></a><p><strong>Docker Configurator</strong></p><p>Aplicação e banco de dados em um ambiente reproduzível.</p><p><sub>Docker · PHP · MySQL</sub></p><a href="https://github.com/arthurlynow098/Docker-product-configurator">Conhecer o projeto ↗</a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/Verificador-de-Copias"><img src="assets/identity/Verificador-de-Copias.png" alt="Verificador de Cópias" width="100%"></a><p><strong>Verificador de Cópias</strong></p><p>Automação para encontrar e separar imagens duplicadas.</p><p><sub>Python · Tkinter · ImageHash</sub></p><a href="https://github.com/arthurlynow098/Verificador-de-Copias">Conhecer o projeto ↗</a><br><br></td></tr>
+<tr><th align="left">No trabalho</th><th align="left">Nos meus projetos</th></tr>
+<tr><td>Back-end, automação de tarefas e ferramentas para engenharia.</td><td>Aplicações locais, integração entre plataformas e interfaces que tornam tarefas técnicas mais acessíveis.</td></tr>
+<tr><td>Transformar necessidades práticas em soluções que possam ser usadas no dia a dia.</td><td>Documentar o funcionamento, organizar o código e aprender construindo.</td></tr>
 </table>
 
-<details>
-<summary><strong>Outros projetos em destaque — desktop, mobile, gestão e IA</strong></summary>
+<a id="produtos-em-destaque"></a>
 
-- **[LynowMic](https://github.com/arthurlynow098/LynowMic)** — Celular Android como microfone sem fio para Windows. C#, WPF e Kotlin.
-- **[LynowCut](https://github.com/arthurlynow098/LynowCut)** — Compressão local de imagens, documentos, vídeos e áudio. Python, PySide6 e FFmpeg.
-- **[O-BRECHÓ · ANG](https://github.com/arthurlynow098/ANG)** — Gestão de doações, estoque, vendas e caixa. TypeScript, React e SQL.
-- **[F1 Financial Controller](https://github.com/arthurlynow098/f1-strategic-financial-controller)** — Simulação financeira de uma equipe de Fórmula 1 com LLMs.
+<p><img src="assets/identity-v2/section-02.svg" alt="Produtos em destaque" width="100%"></p>
 
-</details>
+Ferramentas com identidade própria, documentação e um problema concreto para resolver.
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowCut"><img src="https://raw.githubusercontent.com/arthurlynow098/LynowCut/main/assets/lynowcut-banner.png" alt="LynowCut" width="100%"></a><h3>LynowCut</h3><p>Compressão local de imagens, PDFs, documentos, vídeos e áudio, com meta de tamanho.</p><p><sub>Python · PySide6 · Pillow · FFmpeg</sub></p><a href="https://github.com/arthurlynow098/LynowCut"><strong>Explorar projeto →</strong></a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowMic"><img src="https://raw.githubusercontent.com/arthurlynow098/LynowMic/main/assets/lynowmic-banner.jpg" alt="LynowMic" width="100%"></a><h3>LynowMic</h3><p>O celular Android como fonte de áudio para o Windows pela rede local, com pareamento por QR Code.</p><p><sub>C# · WPF · Kotlin · TLS</sub></p><a href="https://github.com/arthurlynow098/LynowMic"><strong>Explorar projeto →</strong></a><br><br></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowCatch"><img src="https://raw.githubusercontent.com/arthurlynow098/LynowCatch/main/assets/lynowcatch-banner.png" alt="LynowCatch" width="100%"></a><h3>LynowCatch</h3><p>Uma central local para baixar e converter links em vídeo, áudio e GIF, com fila e recorte.</p><p><sub>Python · yt-dlp · FFmpeg · JavaScript</sub></p><a href="https://github.com/arthurlynow098/LynowCatch"><strong>Explorar projeto →</strong></a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/Verificador-de-Copias"><img src="https://raw.githubusercontent.com/arthurlynow098/Verificador-de-Copias/main/assets/identity-v2/banner.png" alt="Verificador de Cópias" width="100%"></a><h3>Verificador de Cópias</h3><p>Busca imagens duplicadas por hash ou semelhança visual e organiza as cópias em uma pasta.</p><p><sub>Python · Tkinter · Pillow · ImageHash</sub></p><a href="https://github.com/arthurlynow098/Verificador-de-Copias"><strong>Explorar projeto →</strong></a><br><br></td></tr></table>
+
+<a id="engenharia-e-aplicações"></a>
+
+<p><img src="assets/identity-v2/section-03.svg" alt="Engenharia e aplicações" width="100%"></p>
+
+<table><tr><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/spring-boot-product-manager"><img src="https://raw.githubusercontent.com/arthurlynow098/spring-boot-product-manager/main/assets/identity-v2/banner.png" alt="Product Manager" width="100%"></a><h3>Product Manager</h3><p>API REST e painel web para estudar gestão de produtos, herança e polimorfismo.</p><p><sub>Java · Spring Boot · Maven</sub></p><a href="https://github.com/arthurlynow098/spring-boot-product-manager"><strong>Explorar projeto →</strong></a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/lynow-corp-platform"><img src="https://raw.githubusercontent.com/arthurlynow098/lynow-corp-platform/main/assets/identity-v2/banner.png" alt="Lynow Corp" width="100%"></a><h3>Lynow Corp</h3><p>Back-end e modelagem de dados para conectar clientes e profissionais.</p><p><sub>Java · Spring Data JPA · MySQL</sub></p><a href="https://github.com/arthurlynow098/lynow-corp-platform"><strong>Explorar projeto →</strong></a><br><br></td></tr><tr><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/Docker-product-configurator"><img src="https://raw.githubusercontent.com/arthurlynow098/Docker-product-configurator/main/assets/identity-v2/banner.png" alt="Docker Configurator" width="100%"></a><h3>Docker Configurator</h3><p>Aplicação web e banco de dados organizados em um ambiente de containers.</p><p><sub>Docker · PHP · MySQL</sub></p><a href="https://github.com/arthurlynow098/Docker-product-configurator"><strong>Explorar projeto →</strong></a><br><br></td><td width="50%" valign="top"><a href="https://github.com/arthurlynow098/f1-strategic-financial-controller"><img src="https://raw.githubusercontent.com/arthurlynow098/f1-strategic-financial-controller/main/assets/identity-v2/banner.png" alt="F1 Financial Controller" width="100%"></a><h3>F1 Financial Controller</h3><p>Estudo de engenharia de prompts aplicado a orçamento, cenários e riscos de uma equipe de F1.</p><p><sub>Prompts · LLMs · Análise de cenários</sub></p><a href="https://github.com/arthurlynow098/f1-strategic-financial-controller"><strong>Explorar projeto →</strong></a><br><br></td></tr></table>
+
+### Projeto integrador · O-BRECHÓ
+
+**[ANG / O-BRECHÓ](https://github.com/arthurlynow098/ANG)** — sistema de gestão para a Associação Nova Geração, desenvolvido em equipe no Projeto Integrador. Reúne doações, estoque, vendas e caixa, com documentação de requisitos, protótipos e testes.
+
+<p><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white"></p>
 
 <a id="tecnologias"></a>
 
-<p align="center"><img src="assets/identity/tools.svg" alt="Tecnologias — As ferramentas do meu ofício" width="100%"></p>
+<p><img src="assets/identity-v2/section-04.svg" alt="Tecnologias" width="100%"></p>
 
-<p align="center"><img src="assets/identity/technology-grid.svg" alt="Back-end &amp; APIs: Java · Spring Boot, C# · ASP.NET Core, PHP · Node.js · Express; Desktop &amp; automação: Python · PySide6 · Tkinter · Pillow, WPF · Windows Forms, VBA · Excel; Dados &amp; infraestrutura: MySQL · SQL Server · Oracle PL/SQL, Entity Framework · Spring Data JPA, Docker · Git · GitHub Actions · Linux; Interfaces: JavaScript · TypeScript · React, HTML · CSS · Bootstrap, Razor" width="100%"></p>
+| Área | Ferramentas presentes nos meus projetos |
+|---|---|
+| **Back-end e APIs** | Java · Spring Boot · C# · ASP.NET Core · PHP · Node.js · Express |
+| **Desktop e automação** | Python · PySide6 · Tkinter · Pillow · WPF · Windows Forms · VBA |
+| **Dados** | MySQL · SQL Server · Oracle PL/SQL · Entity Framework · Spring Data JPA |
+| **Interfaces** | JavaScript · TypeScript · React · HTML · CSS · Bootstrap · Razor |
+| **Infraestrutura e colaboração** | Docker · Git · GitHub Actions · Maven |
 
-<a id="explore-os-repositórios"></a>
+<p align="center">
+<img alt="Java" src="https://img.shields.io/badge/Java-7227EF?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-7227EF?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+<img alt="CSharp" src="https://img.shields.io/badge/C%23-7227EF?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-7227EF?style=for-the-badge&amp;logo=javascript&amp;logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-7227EF?style=for-the-badge&amp;logo=docker&amp;logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-7227EF?style=for-the-badge&amp;logo=github&amp;logoColor=white">
+</p>
 
-<p align="center"><img src="assets/identity/garden.svg" alt="Explorações — Um jardim de pequenos projetos" width="100%"></p>
+<a id="explore-a-coleção"></a>
 
-<p align="center">Cada estudo é uma nova possibilidade.<br>Explore os projetos por área ou visite a coleção completa.</p>
+<p><img src="assets/identity-v2/section-05.svg" alt="Explore a coleção" width="100%"></p>
 
-<details>
-<summary>Ver coleção por área</summary>
+### Web, APIs e gestão
 
-### Aplicações Web, APIs e Sistemas MVC
+| Projeto | O que você encontra |
+|---|---|
+| [Carrinho de Compras](https://github.com/arthurlynow098/Carrinho-de-Compras) | Listas por categoria, usuários e relatórios em PDF. |
+| [Projeto Enquete](https://github.com/arthurlynow098/ProjetoPWEnquete) | Enquetes, autenticação, perfis de acesso e persistência em SQL Server. |
+| [Ping Enquetes](https://github.com/arthurlynow098/Ping-Enquetes) | Criação e votação em enquetes com persistência em JSON. |
+| [MVC-PW](https://github.com/arthurlynow098/MVC-PW) | Estudos de MVC com veículos, dispositivos móveis e eventos. |
+| [CRUD de Clientes](https://github.com/arthurlynow098/crud-bootstrap-php-main2.0) | Cadastro, consulta, edição e exclusão com PHP e Bootstrap. |
+| [Planilha Pessoal](https://github.com/arthurlynow098/Planilha-Pessoal) | Organização financeira e pessoal com gráficos e temas. |
 
-- **[Carrinho-de-Compras](https://github.com/arthurlynow098/Carrinho-de-Compras)** — E-commerce e lista de compras com ASP.NET Core MVC, Entity Framework Core, SQL Server e exportação em PDF.
-- **[ProjetoPWEnquete](https://github.com/arthurlynow098/ProjetoPWEnquete)** — Plataforma completa de enquetes com autenticação ASP.NET Core Identity, painel administrativo e SQL Server.
-- **[Ping-Enquetes](https://github.com/arthurlynow098/Ping-Enquetes)** — Aplicação web ágil de votações em tempo real construída em ASP.NET Core (.NET 9) com persistência JSON e sessões.
-- **[MVC-PW](https://github.com/arthurlynow098/MVC-PW)** — Sistema multi-domínio em ASP.NET Core MVC com CRUD de veículos, dispositivos móveis e eventos.
-- **[crud-bootstrap-php-main2.0](https://github.com/arthurlynow098/crud-bootstrap-php-main2.0)** — Sistema de gestão de clientes em PHP e MySQL com interface responsiva em Bootstrap e Font Awesome.
-- **[Planilha-Pessoal](https://github.com/arthurlynow098/Planilha-Pessoal)** — Aplicação web modular para controle financeiro pessoal, visualização de gráficos e temas customizáveis.
-- **[TAPWM](https://github.com/arthurlynow098/TAPWM)** — Coleção progressiva de projetos de programação web, cobrindo DOM, Promises, Callbacks, Node.js, Express e EJS.
-- **[PWBE](https://github.com/arthurlynow098/PWBE)** — Estudo de arquitetura back-end e execução assíncrona no ecossistema Node.js.
+### Desktop, mobile e jogos
 
-### Aplicações Desktop, Mobile e Jogos
+| Projeto | O que você encontra |
+|---|---|
+| [Gestão de Voos](https://github.com/arthurlynow098/Sistema-Gerenciar-V-os) | Gerenciamento de aeronaves e pilotos em Windows Forms. |
+| [Aula APS](https://github.com/arthurlynow098/AulaAps) | Formas geométricas, abstração, herança e polimorfismo. |
+| [Maui App](https://github.com/arthurlynow098/MauiAPP) | Interface compartilhada e projetos para Android e Windows. |
+| [Flappy Bird](https://github.com/arthurlynow098/FlappyBird-Game) | Jogo de navegador com JavaScript, HTML e CSS. |
+| [JavaFut](https://github.com/arthurlynow098/JavaFut) | Projeto de estudo em Java com domínio de futebol. |
 
-- **[Sistema-Gerenciar-V-os](https://github.com/arthurlynow098/Sistema-Gerenciar-V-os)** — Sistema desktop em C# Windows Forms com SQL Server e DataSet tipado para gestão de aeronaves e pilotos.
-- **[AulaAps](https://github.com/arthurlynow098/AulaAps)** — Calculadora geométrica desktop em C# Windows Forms aplicando abstração, herança e polimorfismo.
-- **[MauiAPP](https://github.com/arthurlynow098/MauiAPP)** — Aplicação multiplataforma em C# e .NET MAUI (.NET 9) com targets nativos para Android e Windows (WinUI).
-- **[FlappyBird-Game](https://github.com/arthurlynow098/FlappyBird-Game)** — Recriação do clássico arcade Flappy Bird para navegador utilizando JavaScript puro, HTML5 e CSS3.
-- **[LynowCatch](https://github.com/arthurlynow098/LynowCatch)** — Pacote de automação e captura de mídia com distribuição compactada do código-fonte.
+### Dados, infraestrutura e segurança
 
-### Dados, Infraestrutura, Segurança e IA
+| Projeto | O que você encontra |
+|---|---|
+| [SQL Engineering Lab](https://github.com/arthurlynow098/SQL-engineering-lab) | Modelagem, consultas, filtros e indicadores. |
+| [PL/SQL Training](https://github.com/arthurlynow098/PL-SQL-Training) | Blocos, variáveis e constantes em Oracle PL/SQL. |
+| [SQL Studies](https://github.com/arthurlynow098/sql-studies) | Seleção, operadores, condições e criação de bases. |
+| [Versionamento Git](https://github.com/arthurlynow098/Pesquisa-versionamento-Git) | Commits, branches e fluxo local de versionamento. |
+| [GitHub Actions](https://github.com/arthurlynow098/forage-github-task) | Exercício de workflow e integração contínua. |
+| [Phishing Defense](https://github.com/arthurlynow098/Cybersecurity-phishing-defense) | Laboratório acadêmico de engenharia social e análise de phishing. |
 
-- **[SQL-engineering-lab](https://github.com/arthurlynow098/SQL-engineering-lab)** — Laboratório de engenharia de dados em MySQL cobrindo DDL, DQL, filtros booleanos e sinalizadores de negócio.
-- **[PL-SQL-Training](https://github.com/arthurlynow098/PL-SQL-Training)** — Treinamento em programação procedural Oracle PL/SQL com blocos anônimos, variáveis e constantes.
-- **[sql-studies](https://github.com/arthurlynow098/sql-studies)** — Caderno prático de consultas SQL, operadores lógicos, filtros de intervalo e criação de schemas.
-- **[Cybersecurity-phishing-defense](https://github.com/arthurlynow098/Cybersecurity-phishing-defense)** — Laboratório acadêmico de cibersegurança voltado à análise de vetores de engenharia social e defesa contra phishing.
-- **[Pesquisa-versionamento-Git](https://github.com/arthurlynow098/Pesquisa-versionamento-Git)** — Guia técnico e projeto demonstrativo sobre fluxo de versionamento local, ramificações e linha de comando Git.
-- **[forage-github-task](https://github.com/arthurlynow098/forage-github-task)** — Automação de pipelines e integração contínua com GitHub Actions.
+### Aprendizado e trajetória
 
-### Portfólios e Fundamentos de Computação
+- **Programação web:** [TAPWM](https://github.com/arthurlynow098/TAPWM) · [PWBE](https://github.com/arthurlynow098/PWBE)
+- **Fundamentos:** [Algoritmos e Lógica](https://github.com/arthurlynow098/Algoritmos-e-Logica-de-Programacao) · [Java Diferença](https://github.com/arthurlynow098/JavaDiferenca) · [Soma de Inteiros](https://github.com/arthurlynow098/SomaInt)
+- **Apresentação e formação:** [Portfólio](https://github.com/arthurlynow098/portfolio) · [P-Tech](https://github.com/arthurlynow098/Ptech) · [Front-end TCC](https://github.com/arthurlynow098/frontEndTCC)
 
-- **[portfolio](https://github.com/arthurlynow098/portfolio)** · **[Ptech](https://github.com/arthurlynow098/Ptech)** · **[frontEndTCC](https://github.com/arthurlynow098/frontEndTCC)** · **[Algoritmos-e-Logica-de-Programacao](https://github.com/arthurlynow098/Algoritmos-e-Logica-de-Programacao)** · **[JavaDiferenca](https://github.com/arthurlynow098/JavaDiferenca)** · **[SomaInt](https://github.com/arthurlynow098/SomaInt)** · **[JavaFut](https://github.com/arthurlynow098/JavaFut)**
+<a id="identidade-e-conexões"></a>
 
-</details>
+<p><img src="assets/identity-v2/section-06.svg" alt="Identidade e conexões" width="100%"></p>
 
-<p align="center"><a href="https://github.com/arthurlynow098?tab=repositories"><strong>Explorar todos os repositórios ↗</strong></a></p>
+O **lince** acompanha a identidade deste perfil. A coleção visual dos projetos usa gravuras de animais e tem como referência as apresentações de **LynowCut, LynowMic e LynowCatch**. Cada projeto mantém sua documentação e seus créditos.
 
-<p align="center"><img src="assets/identity/divider.svg" alt="" width="100%"></p>
+<p align="center"><img src="assets/identity-v2/logo.png" alt="Lince — identidade de Arthur Entsev" width="140"></p>
 
-<p align="center"><em>Obrigado por passar por aqui.</em></p>
-<p align="center"><a href="https://arthurentsev.vercel.app/">Portfólio</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a> &nbsp; · &nbsp; <a href="mailto:arthurmendes0505@Outlook.com">E-mail</a></p>
+<p align="center"><a href="assets/identity-v2/logo.png">Logo em PNG</a> · <a href="assets/identity-v2/banner.png">Banner em PNG</a></p>
+
+<p align="center"><strong>Estudo · construção · evolução</strong></p>
+
+<p align="center"><a href="https://arthurentsev.vercel.app/">Portfólio</a> · <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a> · <a href="mailto:arthurmendes0505@Outlook.com">E-mail</a> · <a href="#top">Voltar ao topo ↑</a></p>
