@@ -64,4 +64,4 @@ APIs, redes, bancos de dados e as matérias da Fatec
 - Homelab com Wazuh para detectar os ataques que os projetos do Lince Lab simulam
 - Regras de detecção em Sigma e YARA
 
-<p align="center"><sub>As gravuras do Lince Lab e dos projetos de back-end são ilustrações antigas em domínio público, com o crédito no README de cada projeto.</sub></p>
+<p align="center"><sub>Tirando o LynowCut, o LynowMic e o LynowCatch, as gravuras são ilustrações antigas em domínio público, com o crédito no README de cada projeto.</sub></p>
