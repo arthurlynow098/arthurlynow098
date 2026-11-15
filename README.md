@@ -14,7 +14,6 @@
   <a href="https://arthurentsev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-7227EF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/entsevarthur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-11120F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:arthurmendes0505@Outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-11120F?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-  <a href="https://tryhackme.com/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-11120F?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
 ## Lince Lab
