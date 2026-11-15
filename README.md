@@ -1,164 +1,67 @@
-<a id="top"></a>
+<p align="center"><sub>Arthur Entsev</sub></p>
 
-<p align="center"><img src="assets/identity-v2/banner.png" alt="Arthur Entsev" width="100%"></p>
-
-<p align="center"><strong>Desenvolvedor back-end apaixonado por cibersegurança. Construo ferramentas para entender como os sistemas quebram e como protegê-los.</strong></p>
+---
 
 <p align="center">
-<a href="https://arthurentsev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-7227EF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/entsevarthur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-242424?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:arthurmendes0505@Outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-242424?style=for-the-badge&logo=maildotru&logoColor=white"></a>
-<a href="https://tryhackme.com/"><img alt="TryHackMe" src="https://img.shields.io/badge/estudando%20no-TryHackMe-242424?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <img src="assets/identity-v2/banner.png" alt="Arthur Entsev" width="100%">
 </p>
-
-<p align="center"><a href="#sobre-mim">Sobre</a> &nbsp;&nbsp; <a href="#lince-lab">Lince Lab</a> &nbsp;&nbsp; <a href="#produtos">Produtos</a> &nbsp;&nbsp; <a href="#engenharia">Engenharia</a> &nbsp;&nbsp; <a href="#tecnologias">Tecnologias</a> &nbsp;&nbsp; <a href="#proximos">Próximos passos</a></p>
-
-<a id="sobre-mim"></a>
-
-<p><img src="assets/lince-lab/secao-01.svg" alt="Sobre mim" width="100%"></p>
-
-Sou **Arthur Mendes Entsev**, desenvolvedor back-end na **Flash Engenharia** e estudante de **Análise e Desenvolvimento de Sistemas na Fatec Sorocaba**.
-
-No dia a dia eu faço APIs, automações e ferramentas internas. Foi justamente construindo sistema que eu me apaixonei por segurança. Toda vez que eu escrevia um login ou uma consulta ao banco, vinha a pergunta "e se alguém tentar quebrar isso?". Hoje eu estudo cibersegurança todo dia e transformo cada assunto em uma ferramenta funcionando, com testes e documentação.
-
-<table>
-<tr><th align="left">O que eu já faço</th><th align="left">Para onde estou indo</th></tr>
-<tr><td>APIs REST em Java, Python e C#, automação e bancos de dados</td><td>Blue team, análise de logs, detecção e resposta a incidentes</td></tr>
-<tr><td>Código com teste automatizado e CI no GitHub Actions</td><td>Segurança de aplicações (AppSec) e desenvolvimento seguro</td></tr>
-<tr><td>Ferramentas desktop e web que resolvem problema real</td><td>Redes, criptografia aplicada e hardening</td></tr>
-</table>
-
-<a id="lince-lab"></a>
-
-<p><img src="assets/lince-lab/secao-02.svg" alt="Lince Lab, cibersegurança" width="100%"></p>
-
-<p align="center"><img src="assets/lince-lab/lince-lab.svg" alt="Lince Lab" width="100%"></p>
-
-O **Lince Lab** é a minha coleção de projetos de segurança. Cada um nasceu de uma aula ou sala que eu estudei, e o README de cada projeto tem o link do material que segui, o que eu aprendi e o que ainda quero melhorar. Todos têm testes rodando no GitHub Actions.
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/lince-portscan"><img src="https://raw.githubusercontent.com/arthurlynow098/lince-portscan/main/assets/banner.svg" alt="Lince Portscan" width="100%"></a><p><strong>Lince Portscan</strong><br>Scanner de portas TCP com threads, banner grabbing e saída em JSON.</p><sub>Python · socket · threading</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/password-auditor"><img src="https://raw.githubusercontent.com/arthurlynow098/password-auditor/main/assets/banner.svg" alt="Password Auditor" width="100%"></a><p><strong>Password Auditor</strong><br>Força real de senha e consulta ao Have I Been Pwned com k-anonymity.</p><sub>Python · HIBP · NIST 800-63B</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/hash-lab"><img src="https://raw.githubusercontent.com/arthurlynow098/hash-lab/main/assets/banner.svg" alt="Hash Lab" width="100%"></a><p><strong>Hash Lab</strong><br>Identifica hashes, confere integridade de arquivos e mostra como guardar senha com scrypt.</p><sub>Python · hashlib · scrypt</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/ssh-brute-detector"><img src="https://raw.githubusercontent.com/arthurlynow098/ssh-brute-detector/main/assets/banner.svg" alt="SSH Brute Detector" width="100%"></a><p><strong>SSH Brute Detector</strong><br>Lê o auth.log e detecta força bruta, spraying e login suspeito.</p><sub>Python · regex · MITRE ATT&CK</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/fim-powershell"><img src="https://raw.githubusercontent.com/arthurlynow098/fim-powershell/main/assets/banner.svg" alt="FIM PowerShell" width="100%"></a><p><strong>FIM PowerShell</strong><br>Monitor de integridade de arquivos com baseline SHA-256 e alertas em tempo real.</p><sub>PowerShell · Pester · Windows</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/phishing-analyzer"><img src="https://raw.githubusercontent.com/arthurlynow098/phishing-analyzer/main/assets/banner.svg" alt="Phishing Analyzer" width="100%"></a><p><strong>Phishing Analyzer</strong><br>Analisa .eml e pontua SPF, DKIM, DMARC, links disfarçados e anexos perigosos.</p><sub>Python · email · MIME</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/security-headers-scanner"><img src="https://raw.githubusercontent.com/arthurlynow098/security-headers-scanner/main/assets/banner.svg" alt="Security Headers Scanner" width="100%"></a><p><strong>Security Headers Scanner</strong><br>Nota de A+ a F para os cabeçalhos HTTP de segurança de um site.</p><sub>Python · HTTP · OWASP</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/network-sentinel"><img src="https://raw.githubusercontent.com/arthurlynow098/network-sentinel/main/assets/banner.svg" alt="Network Sentinel" width="100%"></a><p><strong>Network Sentinel</strong><br>Mini IDS que detecta port scan, ARP spoofing e ICMP flood em pcap ou ao vivo.</p><sub>Python · Scapy · IDS</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/cofre-de-senhas"><img src="https://raw.githubusercontent.com/arthurlynow098/cofre-de-senhas/main/assets/banner.svg" alt="Cofre de Senhas" width="100%"></a><p><strong>Cofre de Senhas</strong><br>Gerenciador de senhas no terminal com scrypt e criptografia autenticada.</p><sub>Python · cryptography · Fernet</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/jwt-inspector"><img src="https://raw.githubusercontent.com/arthurlynow098/jwt-inspector/main/assets/banner.svg" alt="JWT Inspector" width="100%"></a><p><strong>JWT Inspector</strong><br>Decodifica tokens JWT e audita validade, claims, algoritmo e dados expostos.</p><sub>Python · HMAC · RFC 7519</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/subdomain-recon"><img src="https://raw.githubusercontent.com/arthurlynow098/subdomain-recon/main/assets/banner.svg" alt="Subdomain Recon" width="100%"></a><p><strong>Subdomain Recon</strong><br>Inventário passivo de subdomínios pelos logs de Certificate Transparency.</p><sub>Python · DNS · crt.sh</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/cifras-classicas"><img src="https://raw.githubusercontent.com/arthurlynow098/cifras-classicas/main/assets/banner.svg" alt="Cifras Clássicas" width="100%"></a><p><strong>Cifras Clássicas</strong><br>César, Vigenère e XOR, e a análise de frequência que quebra cada uma.</p><sub>Python · criptoanálise</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/secure-flask-lab"><img src="https://raw.githubusercontent.com/arthurlynow098/secure-flask-lab/main/assets/banner.svg" alt="Secure Flask Lab" width="100%"></a><p><strong>Secure Flask Lab</strong><br>App web com defesas contra SQLi, XSS, IDOR e CSRF, cada uma provada por teste.</p><sub>Python · Flask · OWASP Top 10</sub></td>
-<td width="50%" valign="top"><p><strong>Trilha de estudo do Lince Lab</strong></p>
-<p>Redes e varredura &nbsp;&nbsp;<code>01</code> <code>08</code> <code>11</code><br>
-Detecção e resposta &nbsp;&nbsp;<code>04</code> <code>05</code> <code>06</code><br>
-Segurança web &nbsp;&nbsp;<code>07</code> <code>10</code> <code>13</code><br>
-Criptografia e senhas &nbsp;&nbsp;<code>02</code> <code>03</code> <code>09</code> <code>12</code></p>
-<sub>Os números são os mesmos da faixa do Lince Lab acima</sub></td>
-</tr>
-</table>
-
-<a id="produtos"></a>
-
-<p><img src="assets/lince-lab/secao-03.svg" alt="Produtos Lynow" width="100%"></p>
-
-Ferramentas com identidade própria, documentação e um problema concreto para resolver.
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowCut"><img src="assets/identity-v2/lynowcut-banner.png" alt="LynowCut" width="100%"></a><p><strong>LynowCut</strong><br>Compressão local de imagens, PDFs, documentos, vídeos e áudio, com meta de tamanho.</p><sub>Python · PySide6 · Pillow · FFmpeg</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowMic"><img src="assets/identity-v2/lynowmic-banner.png" alt="LynowMic" width="100%"></a><p><strong>LynowMic</strong><br>O celular Android como microfone do Windows pela rede local, com pareamento por QR Code e TLS.</p><sub>C# · WPF · Kotlin · TLS</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowCatch"><img src="assets/identity-v2/lynowcatch-banner.png" alt="LynowCatch" width="100%"></a><p><strong>LynowCatch</strong><br>Central local para baixar e converter mídia em vídeo, áudio e GIF, com fila e recorte.</p><sub>Python · yt-dlp · FFmpeg · JavaScript</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowBOM"><img src="assets/identity-v2/lynowbom-banner.png" alt="LynowBOM" width="100%"></a><p><strong>LynowBOM</strong><br>Da planilha de engenharia ao orçamento, com lista de materiais multinível e formação de preço.</p><sub>Java · Spring Boot · MySQL · Apache POI</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowWatch"><img src="assets/identity-v2/lynowwatch-banner.png" alt="LynowWatch" width="100%"></a><p><strong>LynowWatch</strong><br>Serviço do Windows que monitora pastas e organiza, copia ou compacta arquivos por regras.</p><sub>C# · .NET 8 · Worker Service · xUnit</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/arthurlynow098/LynowWorlds"><img src="https://raw.githubusercontent.com/arthurlynow098/LynowWorlds/main/assets/banner.png" alt="LynowWorlds" width="100%"></a><p><strong>LynowWorlds</strong><br>Central do Worlds 2026 de League of Legends em português, com séries, drafts e recordes.</p><sub>JavaScript · Node.js · Vercel</sub></td>
-</tr>
-</table>
-
-<a id="engenharia"></a>
-
-<p><img src="assets/lince-lab/secao-04.svg" alt="Back-end e engenharia" width="100%"></p>
-
-<table>
-<tr>
-<td width="33%" valign="top"><a href="https://github.com/arthurlynow098/taskflow-api"><img src="https://raw.githubusercontent.com/arthurlynow098/taskflow-api/main/assets/banner.svg" alt="Taskflow API" width="100%"></a><p><strong>Taskflow API</strong><br>API REST com FastAPI, JWT, SQLite e Docker sem root.</p></td>
-<td width="33%" valign="top"><a href="https://github.com/arthurlynow098/subnet-calculator"><img src="https://raw.githubusercontent.com/arthurlynow098/subnet-calculator/main/assets/banner.svg" alt="Subnet Calc" width="100%"></a><p><strong>Subnet Calc</strong><br>Calculadora de sub-redes IPv4 com visão em binário.</p></td>
-<td width="33%" valign="top"><a href="https://github.com/arthurlynow098/pulso-uptime"><img src="https://raw.githubusercontent.com/arthurlynow098/pulso-uptime/main/assets/banner.svg" alt="Pulso Uptime" width="100%"></a><p><strong>Pulso Uptime</strong><br>Monitor de disponibilidade com página de status no GitHub Actions.</p></td>
-</tr>
-</table>
-
-| Projeto | O que você encontra | Stack |
-|---|---|---|
-| [Product Manager](https://github.com/arthurlynow098/spring-boot-product-manager) | API REST e painel web de gestão de produtos, herança e polimorfismo | Java · Spring Boot |
-| [Lynow Corp](https://github.com/arthurlynow098/lynow-corp-platform) | Back-end de plataforma de micro-jobs com modelagem relacional | Java · Spring Data JPA · MySQL |
-| [Docker Configurator](https://github.com/arthurlynow098/Docker-product-configurator) | Aplicação web e banco organizados em containers com rede isolada | Docker · PHP · MySQL |
-| [Projeto Enquete](https://github.com/arthurlynow098/ProjetoPWEnquete) | Enquetes com autenticação, perfis de acesso e SQL Server | C# · ASP.NET Core · EF Core |
-| [SQL Engineering Lab](https://github.com/arthurlynow098/SQL-engineering-lab) | Modelagem, consultas analíticas, filtros e regras de negócio | MySQL |
-
-**Projeto integrador.** O [ANG / O-BRECHÓ](https://github.com/arthurlynow098/ANG) é o sistema de gestão da Associação Nova Geração, feito em equipe na faculdade. Reúne doações, estoque, vendas e caixa, com requisitos, protótipos e testes.
-
-<a id="tecnologias"></a>
-
-<p><img src="assets/lince-lab/secao-05.svg" alt="Tecnologias" width="100%"></p>
-
-| Área | Ferramentas presentes nos meus projetos |
-|---|---|
-| **Segurança** | Scapy · cryptography · hashlib · análise de logs · MITRE ATT&CK · OWASP Top 10 |
-| **Back-end e APIs** | Java · Spring Boot · Python · FastAPI · Flask · C# · ASP.NET Core · Node.js |
-| **Desktop e automação** | Python · PySide6 · PowerShell · WPF · .NET Worker Service |
-| **Dados** | MySQL · SQL Server · SQLite · Oracle PL/SQL · JPA · Entity Framework |
-| **Infra e qualidade** | Docker · Git · GitHub Actions · pytest · Pester · xUnit |
 
 <p align="center">
-<img alt="Python" src="https://img.shields.io/badge/Python-7227EF?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-7227EF?style=for-the-badge&logo=openjdk&logoColor=white">
-<img alt="CSharp" src="https://img.shields.io/badge/C%23-7227EF?style=for-the-badge&logo=dotnet&logoColor=white">
-<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-7227EF?style=for-the-badge&logo=powershell&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-7227EF?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="Docker" src="https://img.shields.io/badge/Docker-7227EF?style=for-the-badge&logo=docker&logoColor=white">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-7227EF?style=for-the-badge&logo=linux&logoColor=white">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-7227EF?style=for-the-badge&logo=githubactions&logoColor=white">
+  Dev back-end na Flash Engenharia, estudante de ADS na Fatec Sorocaba e cada vez mais dentro da cibersegurança.
 </p>
 
-<a id="outros"></a>
+<p align="center">
+  <a href="https://arthurentsev.vercel.app/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-7227EF?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/entsevarthur/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-11120F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:arthurmendes0505@Outlook.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-11120F?style=for-the-badge&logo=maildotru&logoColor=white"></a>
+  <a href="https://tryhackme.com/"><img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-11120F?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</p>
 
-<p><img src="assets/lince-lab/secao-06.svg" alt="Outros repositórios" width="100%"></p>
+## Lince Lab
 
-- **Web e estudos de faculdade.** [TAPWM](https://github.com/arthurlynow098/TAPWM), laboratório de programação web e mobile com DOM, Promises, Node.js e Express
-- **Interfaces.** [Front-end do TCC](https://github.com/arthurlynow098/frontEndTCC) e o meu [portfólio](https://github.com/arthurlynow098/portfolio)
-- **Jogos.** [FlappyBird Game](https://github.com/arthurlynow098/FlappyBird-Game), jogo de navegador em JavaScript puro
+Cibersegurança na prática, do scanner de portas ao mini IDS
 
-<a id="proximos"></a>
+<table>
+<tr><td align="center" width="14%"><a href="https://github.com/arthurlynow098/lince-portscan"><img src="assets/logos/lince-portscan.png" width="96" alt="Portscan"></a><br><sub>Portscan</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/password-auditor"><img src="assets/logos/password-auditor.png" width="96" alt="Password Auditor"></a><br><sub>Password Auditor</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/hash-lab"><img src="assets/logos/hash-lab.png" width="96" alt="Hash Lab"></a><br><sub>Hash Lab</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/ssh-brute-detector"><img src="assets/logos/ssh-brute-detector.png" width="96" alt="SSH Brute Detector"></a><br><sub>SSH Brute Detector</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/fim-powershell"><img src="assets/logos/fim-powershell.png" width="96" alt="FIM PowerShell"></a><br><sub>FIM PowerShell</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/phishing-analyzer"><img src="assets/logos/phishing-analyzer.png" width="96" alt="Phishing Analyzer"></a><br><sub>Phishing Analyzer</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/security-headers-scanner"><img src="assets/logos/security-headers-scanner.png" width="96" alt="Headers Scanner"></a><br><sub>Headers Scanner</sub></td></tr>
+<tr><td align="center" width="14%"><a href="https://github.com/arthurlynow098/network-sentinel"><img src="assets/logos/network-sentinel.png" width="96" alt="Network Sentinel"></a><br><sub>Network Sentinel</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/cofre-de-senhas"><img src="assets/logos/cofre-de-senhas.png" width="96" alt="Cofre de Senhas"></a><br><sub>Cofre de Senhas</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/jwt-inspector"><img src="assets/logos/jwt-inspector.png" width="96" alt="JWT Inspector"></a><br><sub>JWT Inspector</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/subdomain-recon"><img src="assets/logos/subdomain-recon.png" width="96" alt="Subdomain Recon"></a><br><sub>Subdomain Recon</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/cifras-classicas"><img src="assets/logos/cifras-classicas.png" width="96" alt="Cifras Clássicas"></a><br><sub>Cifras Clássicas</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/secure-flask-lab"><img src="assets/logos/secure-flask-lab.png" width="96" alt="Secure Flask Lab"></a><br><sub>Secure Flask Lab</sub></td></tr>
+</table>
 
-<p><img src="assets/lince-lab/secao-07.svg" alt="Próximos passos" width="100%"></p>
+## Lynow
 
-O que estou estudando agora e quero transformar em projeto em seguida
+Programas que eu uso no dia a dia e publico para quem precisar
 
-- [ ] Montar um homelab com Wazuh e documentar a detecção dos ataques do Lince Lab
-- [ ] Trilha de SOC no TryHackMe e laboratórios da PortSwigger Academy
-- [ ] Regras de detecção em Sigma e YARA
-- [ ] Hardening de servidor Linux com checklist automatizado
+<table>
+<tr><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowCut"><img src="assets/logos/LynowCut.png" width="96" alt="LynowCut"></a><br><sub>LynowCut</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowMic"><img src="assets/logos/LynowMic.png" width="96" alt="LynowMic"></a><br><sub>LynowMic</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowCatch"><img src="assets/logos/LynowCatch.png" width="96" alt="LynowCatch"></a><br><sub>LynowCatch</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowBOM"><img src="assets/logos/LynowBOM.png" width="96" alt="LynowBOM"></a><br><sub>LynowBOM</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowWatch"><img src="assets/logos/LynowWatch.png" width="96" alt="LynowWatch"></a><br><sub>LynowWatch</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/LynowWorlds"><img src="assets/logos/LynowWorlds.png" width="96" alt="LynowWorlds"></a><br><sub>LynowWorlds</sub></td></tr>
+</table>
 
-<p align="center"><img src="assets/identity-v2/logo.png" alt="Lince, identidade de Arthur Entsev" width="120"></p>
+## Back-end e estudos
 
-<p align="center"><strong>Estudo, construção e evolução</strong></p>
+APIs, redes, bancos de dados e as matérias da Fatec
 
-<p align="center"><a href="https://arthurentsev.vercel.app/">Portfólio</a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/entsevarthur/">LinkedIn</a> &nbsp;&nbsp; <a href="mailto:arthurmendes0505@Outlook.com">E-mail</a> &nbsp;&nbsp; <a href="#top">Voltar ao topo</a></p>
+<table>
+<tr><td align="center" width="14%"><a href="https://github.com/arthurlynow098/taskflow-api"><img src="assets/logos/taskflow-api.png" width="96" alt="Taskflow API"></a><br><sub>Taskflow API</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/subnet-calculator"><img src="assets/logos/subnet-calculator.png" width="96" alt="Subnet Calc"></a><br><sub>Subnet Calc</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/pulso-uptime"><img src="assets/logos/pulso-uptime.png" width="96" alt="Pulso Uptime"></a><br><sub>Pulso Uptime</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/spring-boot-product-manager"><img src="assets/logos/spring-boot-product-manager.png" width="96" alt="Product Manager"></a><br><sub>Product Manager</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/lynow-corp-platform"><img src="assets/logos/lynow-corp-platform.png" width="96" alt="Lynow Corp"></a><br><sub>Lynow Corp</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/Docker-product-configurator"><img src="assets/logos/Docker-product-configurator.png" width="96" alt="Docker Config"></a><br><sub>Docker Config</sub></td></tr>
+<tr><td align="center" width="14%"><a href="https://github.com/arthurlynow098/ProjetoPWEnquete"><img src="assets/logos/ProjetoPWEnquete.png" width="96" alt="Projeto Enquete"></a><br><sub>Projeto Enquete</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/SQL-engineering-lab"><img src="assets/logos/SQL-engineering-lab.png" width="96" alt="SQL Engineering"></a><br><sub>SQL Engineering</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/TAPWM"><img src="assets/logos/TAPWM.png" width="96" alt="TAPWM"></a><br><sub>TAPWM</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/frontEndTCC"><img src="assets/logos/frontEndTCC.png" width="96" alt="Front-end TCC"></a><br><sub>Front-end TCC</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/portfolio"><img src="assets/logos/portfolio.png" width="96" alt="Portfólio"></a><br><sub>Portfólio</sub></td><td align="center" width="14%"><a href="https://github.com/arthurlynow098/FlappyBird-Game"><img src="assets/logos/FlappyBird-Game.png" width="96" alt="Flappy Bird"></a><br><sub>Flappy Bird</sub></td></tr>
+</table>
+
+## Tecnologias
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+## Agora estudando
+
+- Trilha de SOC no TryHackMe e os laboratórios da PortSwigger Academy
+- Homelab com Wazuh para detectar os ataques que os projetos do Lince Lab simulam
+- Regras de detecção em Sigma e YARA
+
+<p align="center"><sub>As gravuras do Lince Lab e dos projetos de back-end são ilustrações antigas em domínio público, com o crédito no README de cada projeto.</sub></p>
