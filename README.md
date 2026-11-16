@@ -57,10 +57,4 @@ APIs, redes, bancos de dados e as matérias da Fatec
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
 
-## Agora estudando
-
-- Trilha de SOC no TryHackMe e os laboratórios da PortSwigger Academy
-- Homelab com Wazuh para detectar os ataques que os projetos do Lince Lab simulam
-- Regras de detecção em Sigma e YARA
-
 <p align="center"><sub>Tirando o LynowCut, o LynowMic e o LynowCatch, as gravuras são ilustrações antigas em domínio público, com o crédito no README de cada projeto.</sub></p>
