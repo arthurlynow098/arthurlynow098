@@ -56,5 +56,3 @@ APIs, redes, bancos de dados e as matérias da Fatec
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 </p>
-
-<p align="center"><sub>Tirando o LynowCut, o LynowMic e o LynowCatch, as gravuras são ilustrações antigas em domínio público, com o crédito no README de cada projeto.</sub></p>
